@@ -21,5 +21,4 @@
     </a>
 </p>
 <br>
-![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket95droid)](https://holopin.io/@sanket95droid)
-<br>
+![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@sanket95droid)
