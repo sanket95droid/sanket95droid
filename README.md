@@ -20,4 +20,6 @@
         <img src=https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white'/>
     </a>
 </p>
-  
+<br>
+[![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket95droid)](https://holopin.io/@sanket95droid)
+<br>
