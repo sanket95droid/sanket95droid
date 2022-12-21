@@ -22,5 +22,5 @@
 </p>
 <br>
                                                                                                               
-![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@sanket95droid)
-<!-- <a href="https://holopin.io/@sanket95droid"><img src="https://holopin.io/@sanket95droid" /></a> -->
+
+<a href="https://www.holopin.me/@sanket95droid"><img src="https://www.holopin.me/@sanket95droid" /></a>
