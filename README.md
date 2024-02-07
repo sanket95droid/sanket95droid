@@ -35,6 +35,22 @@ Domain | My Expertise
 **OS**  | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 **Tools & Platform**  | ![Figma](https://img.shields.io/badge/-figma-FFB6C1?logo=%22figma%22) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252) ![VsCode](https://img.shields.io/badge/-vscode-0066ff?logo=%22visual-studio%22) 
 
+## 🔥 Streak Stats
+
+<p align="center" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanket95droid&theme=black-ice" alt="mystats"  />
+</p>
+
+<br>
+
+## &#x1f4c8; My GitHub Stats
+<p  align="center"> 
+<a href="https://github.com/sanket95droid">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanket95droid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanket95droid&theme=algolia&hide=c%2B%2B&layout=compact"/>
+</a>
+</p>
+
                                                                                                               
 [![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket95droid)](https://www.holopin.io/@sanket95droid)
 
