@@ -52,10 +52,6 @@ Domain | My Expertise
 </p>
 
 
-<img src="https://raw.githubusercontent.com/sanket95droid/sanket95droid/output/snake.svg" alt="Snake animation" />
-
-###
-
                                                                                                               
 [![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket95droid)](https://www.holopin.io/@sanket95droid)
 
