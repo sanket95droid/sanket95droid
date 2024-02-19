@@ -52,7 +52,7 @@ Domain | My Expertise
 </p>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sanket95droid/sanket95droid/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sanket95droid/output/snake.svg" alt="Snake animation" />
 
 ###
 
