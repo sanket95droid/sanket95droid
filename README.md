@@ -50,6 +50,11 @@ Domain | My Expertise
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanket95droid&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
 </p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sanket95droid/sanket95droid/output/snake.svg" alt="Snake animation" />
+
+###
 
                                                                                                               
 [![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket95droid)](https://www.holopin.io/@sanket95droid)
