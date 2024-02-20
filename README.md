@@ -51,6 +51,13 @@ Domain | My Expertise
 </a>
 </p>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/047pegasus/047pegasus/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/047pegasus/047pegasus/blob/output/github-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/sanket95droid/sanket95droid/blob/output/github-snake-dark.svg">
+</picture>
+</p>
 
                                                                                                               
 [![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket95droid)](https://www.holopin.io/@sanket95droid)
