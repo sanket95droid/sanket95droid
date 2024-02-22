@@ -51,6 +51,8 @@ Domain | My Expertise
 </a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=sanket95droid&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/047pegasus/047pegasus/blob/output/github-snake-dark.svg">
