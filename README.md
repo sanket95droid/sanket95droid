@@ -51,7 +51,9 @@ Domain | My Expertise
 </a>
 </p>
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=sanket95droid&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
 
 <p align="center">
 <picture>
