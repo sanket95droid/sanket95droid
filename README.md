@@ -55,7 +55,9 @@ Domain | My Expertise
   <img src="https://visitcount.itsvg.in/api?id=sanket95droid&label=Profile%20Views&color=1&icon=0&pretty=true" />
 </a>
 
-<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanket95droid&theme=dracula" alt="sanket95droid"/>
+<p align="center>
+    <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanket95droid&theme=dracula" alt="sanket95droid"/>
+</p>
 
 
                                                                                                               
