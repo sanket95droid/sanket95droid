@@ -37,26 +37,24 @@ Domain | My Expertise
 
 🔥 **Streak Stats**
 
-<p align="center" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanket95droid&theme=black-ice" alt="mystats"  />
+<p align="center">
+    <img width="450em" height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket95droid&theme=black-ice" alt="mystats"  />
 </p>
 
-<br>
 
 📈 **My GitHub Stats:**
 <p  align="left"> 
 <a href="https://github.com/sanket95droid">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanket95droid&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanket95droid&theme=algolia&hide_border=true&hide=c%2B%2B&layout=compact"/>
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanket95droid&theme=algolia" alt="sanket95droid"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanket95droid&show_icons=true&hide_border=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanket95droid&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanket95droid&theme=algolia" alt="sanket95droid"/>
+    <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanket95droid&theme=algolia&hide_border=true&hide=c%2B%2B&layout=compact"/> -->
 </a>
 </p>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sanket95droid&label=Profile%20Views&color=1&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=sanket95droid&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
-
-
 
                                                                                                               
 [![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket95droid)](https://www.holopin.io/@sanket95droid)
