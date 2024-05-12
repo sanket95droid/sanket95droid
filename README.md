@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanket95droid
 - 👀 I’m currently creating projects in ```MERN``` and other web stacks.
 - 🌱 I’m currently learning ```Cloud``` fundamentals, ```Data Structures and Algorithms``` and ```AI```.
-- 💞️ I’m looking to collaborate on AI based Web-dev projects as well as automation and deployment.
+- 🚀 I’m looking to collaborate on AI based Web-dev projects as well as automation and deployment.
 - 📫 How to reach me 
 <p align='center'>
     <a href='https://www.linkedin.com/in/sanketzambare' target='_blank'>
