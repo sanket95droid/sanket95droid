@@ -56,6 +56,8 @@ Domain | My Expertise
   <img src="https://visitcount.itsvg.in/api?id=sanket95droid&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
 
+<a href="https://www.buymeacoffee.com/sankeet95droid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.ko-fi.com/sankeet95droid"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
                                                                                                               
 [![An image of @sanket95droid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanket95droid)](https://www.holopin.io/@sanket95droid)
 
