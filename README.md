@@ -34,10 +34,10 @@ Domain | My Expertise
 **Cloud**  |  [![AWS](https://img.shields.io/badge/-AWS-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) 
 **Certifications**  | ![Salesforce](https://img.shields.io/badge/5x%20Salesforce-FCC624?style=for-the-badge&logo=icloud&logoColor=black) ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FCC624?style=for-the-badge&logo=icloud&logoColor=black)
 
-🔥 **Streak Stats**
+<!-- 🔥 **Streak Stats**
 <p align="center">
     <img width="450em" height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=sanket95droid&theme=black-ice" alt="mystats"  />
-</p>
+</p> -->
 
 📈 **My GitHub Stats:**
 <p  align="left"> 
