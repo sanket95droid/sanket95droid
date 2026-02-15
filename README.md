@@ -1,5 +1,5 @@
 - Hi, I’m Sanket 👋 😄
-- 🏗️ Architectural Philosophy: I believe in "Design twice, Code once." I'm passionate about distributed databases, caching strategies, and efficient deployment pipelines.
+- 🏗️ Architectural Philosophy: I believe in "Design twice, Code once." I'm passionate about distributed databases, and efficient deployment pipelines.
 - 👀 I'm currently building full-stack applications with a focus on System Design and Scalability. I don't just write code; I design systems that are built to handle load and stay resilient.
 - 🌱 I’m currently deep-diving into ```Cloud Infrastructure``` and the integration of ```AI``` into production workflows.
 - 🚀 I’m looking to collaborate on AI-driven Web Applications and ```Distributed Systems```. If you're building something that requires complex microservices, load balancing, or automation, let’s talk!
